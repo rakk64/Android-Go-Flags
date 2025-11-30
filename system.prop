@@ -1,0 +1,60 @@
+﻿# Disable Blur
+ro.launcher.blur.appLaunch=0
+ro.surface_flinger.supports_background_blur=0
+ro.sf.blurs_are_expensive=0
+persist.sys.sf.disable_blurs=1
+ro.sf.blurs_are_caro=0
+
+#Audio Optimize PCM
+vendor.audio.feature.hifi_audio.enable=true
+persist.vendor.audio.hw_buffer_size=512
+
+# Spoofing Devices Security Patch
+ro.crypto.state=encrypted
+ro.vendor.build.security_patch=2025-11-05
+ro.build.version.security_patch=2025-11-05
+
+# Spoof OpenGLES version
+ro.opengles.version=131072
+
+#Android Go Flag (Experimental)
+ro.config.low_ram2g=true
+ro.build.characteristics=go
+
+# Power Management Fix Chipset kernel issue
+persist.vendor.cpu.power.saving=1
+persist.vendor.gpu.power.saving=1
+persist.vendor.sched.enable_power_aware=1
+ro.config.hw_power_saving=1
+ro.config.hw_quickpoweron=true
+ro.config.hw_fast_dormancy=1
+ro.cpu.hotplug=1
+ro.config.small_battery=true
+persist.vendor.thermal.limit_power=true
+
+# Graphics Enhanced (UI Experimental)
+debug.egl.force_msaa=0
+vendor.hwc.dpp.downscale=1024
+vendor.display.vds_allow_hwc=1
+ro.hwui.render_ahead=4
+ro.hwui.renderer=skiagl
+vendor.display.enable_optimize_refresh=1
+vendor.display.enable_adaptive_refresh=1
+debug.egl.buffcount=4
+persist.sys.use_scroll_friction=0
+debug.sf.latch_unsignaled=1
+
+# Disables enabling RAM dumps for the SSR (System Server Recovery) service.
+persist.vendor.ssr.enable_ramdumps=0
+
+# Zygote HideCrash Fix exp
+ro.zygote.disable_gl_preload=true
+
+# Kernel
+ro.kernel.android.checkjni=0
+dalvik.vm.verify-bytecode=false
+
+# Disables persistent caching for the A/V system.
+prof.async_stack_write=false
+av.debug.disable.pers.cache=true
+persist.log.tag=
