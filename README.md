@@ -1,6 +1,5 @@
 🚀 Android Go Flags (Stable)
 The Ultimate Low-End System Optimisation Module for KernelSU Next/Magisk
-
 The Android Go Flags (Stable) module is designed to repurpose a High-End or Mid-Range Android device into an ultra-optimised, performance-focused machine, mimicking the structure of Android Go devices. The result is superior battery longevity, more aggressive thermal management, and a system geared towards speed.
 
 ✨ Key Features (What the Module Affects)
