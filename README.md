@@ -47,8 +47,8 @@ Significant Battery Saving: Noticeably improves battery life.
 Low Internal Storage Usage: The auto move file feature ensures your internal storage remains low.
 
 
-⚠️ 𝗡𝗼𝘁𝗲𝘀, 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀, & 𝗖𝗼𝗺𝗽𝗮𝘁𝗶𝗯𝗶𝗹𝗶𝘁𝘆
+⚠️ 𝗡𝗼𝘁𝗲𝘀, 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀, & 𝗔𝗟𝗘𝗥𝗧!!
 
-Target Devices: This module is highly recommended for Low-End Devices (3GB RAM or less).
-Ram Killer: Any related ram killer features may not work properly.
+Target Devices: This module is highly recommended for Low-End Devices (2-3GB memory or higher).
+Memory Killer: Any related ram killer lmkd slmk an other features may not work properly. (Zram not clean)
 Disclaimer: Please try it to verify the benefits on your specific device
