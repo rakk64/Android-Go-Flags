@@ -3,17 +3,12 @@ The Ultimate Low-End System Optimisation Module for KernelSU/Magisk
 
 The Android Go Flags (Stable) module is designed to repurpose a High-End or Mid-Range Android device into an ultra-optimised, performance-focused machine, mimicking the structure of Android Go devices. The result is superior battery longevity, more aggressive thermal management, and a system geared towards speed.
 
-✨ 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀 (𝗪𝗵𝗮𝘁 𝘁𝗵𝗲 𝗠𝗼𝗱𝘂𝗹𝗲 𝗔𝗳𝗳𝗲𝗰𝘁𝘀)
-This module injects specific flags and tweaks directly into the system:
-
 
 ⚡ 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 & 𝗘𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗘𝗻𝗵𝗮𝗻𝗰𝗲𝗺𝗲𝗻𝘁𝘀
 
 Advanced Power Management: Implements flags for Better Power Management and Better Battery Life.
 
 Aggressive Cooling: Enhanced thermal manager for more aggressive cooling of your device.
-
-Flat Recents UI: Activates the flatter Recents UI display (Oreo Experimental Style).
 
 Reduced Multitasking: Decreases multitasking capacity and lessens the Recent Apps Cache to free up RAM.
 
@@ -44,11 +39,14 @@ By installing this module, you will experience:
 
 Smoother Performance: feel free your Android device will run more smoothly and be more responsive.
 Significant Battery Saving: Noticeably improves battery life.
-Low Internal Storage Usage: The auto move file feature ensures your internal storage remains low.
+Low Internal Storage Usage: The auto move file feature ensures your internal storage remains low. Not recomended for you if dont have sdcard
 
 
 ⚠️ 𝗡𝗼𝘁𝗲𝘀, 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀, & 𝗔𝗟𝗘𝗥𝗧!!
 
-Target Devices: This module is highly recommended for Low-End Devices (2-3GB memory or higher).
-Memory Killer: Any related ram killer lmkd slmk an other features may not work properly. (Zram not clean)
-Disclaimer: Please try it to verify the benefits on your specific device
+TARGET DEVICES: THIS MODULE IS HIGHLY RECOMMENDED FOR LOW-END DEVICES (2-3GB MEMORY OR HIGHER).
+MEMORY KILLER: ANY RELATED RAM KILLER LMKD SLMK AN OTHER FEATURES MAY NOT WORK PROPERLY. (ZRAM NOT CLEAN)
+DISCLAIMER: PLEASE TRY IT TO VERIFY THE BENEFITS ON YOUR SPECIFIC DEVICE.
+REMEMBER: THERE HAVE SCRIPT AUTOMOVE.SH THIS WILL RUN AFTER REBOOTING AND AUTO MOVE SPECIFIC FOLDER LIKE (DOWNLOAD,DCIM AND OTHERS), SO IF YOU DONT HAVE A EXTERNAL STORAGE PLEASE DELETE THIS FILE CAUSE CAN REMOVING YOUR FILE ON INTERNAL STORAGE.
+
+I AM NOT RESPONSIBLE FOR ANYTHING YOU DO, DO IT AT YOUR OWN RISK. IT WOULD BE BEST TO SEE README.MD.
