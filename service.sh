@@ -7,8 +7,8 @@ MODDIR=${0%/*}
 # Define the path to the common folder where custom scripts reside
 COMMON_DIR=$MODDIR/common
 
-# Pause for 2 seconds to allow Android system services to be ready before optimisation begins
-sleep 2
+# Pause for 5 seconds to allow Android system services to be ready before optimisation begins
+sleep 5
 
 # --- Begin Script Execution ---
 
@@ -19,5 +19,8 @@ sleep 2
 
 # 2. Run Optimization_Storage.sh
 /system/bin/sh $COMMON_DIR/Optimization_Storage.sh &
+
+# 3. Run Optimize_Habits.sh
+#/system/bin/sh $COMMON_DIR/Optimize_Habits.sh &
 
 # All scripts are now triggered in the background and do not generate log files.

@@ -1,7 +1,8 @@
 id=AndroidGo
-name=Android Go Patch
-version=v1.0 (Experimental)
+name=Android Go Patch (Stable)
+version=v1.1
 versionCode=8
 author=Rakk Standalone
-description=Android GO Edition. This is Improve your Android and disabling unused feature on old Android. also Spoofing info HW to keep alive. make the device running more likely
+description=Android GO Edition. This is Improve your Android and disabling unused feature on old Devices. also Spoofing info HW to keep alive. make the device running more Smoothly. Support Android 8.1-16
+updateJson=cara updatenya gimana njirr
 banner=banner.png
