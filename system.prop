@@ -27,11 +27,12 @@ ro.build.version.security_patch=2025-12-05
 # Spoof OpenGLES version
 ro.opengles.version=131072
 
-#Android Go Flag (Experimental)
+#Android Go Flag
 ro.config.low_ram2g=true
+ro.config.low_ram=true
 ro.build.characteristics=go
 
-# Power Management Fix (Battery Friendly)
+# Power Management Fixed
 persist.vendor.cpu.power.saving=1
 persist.vendor.gpu.power.saving=1
 persist.vendor.sched.enable_power_aware=1
